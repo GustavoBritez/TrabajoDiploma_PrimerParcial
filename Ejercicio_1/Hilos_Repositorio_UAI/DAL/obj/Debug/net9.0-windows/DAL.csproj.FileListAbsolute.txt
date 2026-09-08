@@ -1,0 +1,15 @@
+D:\Hilos_Repositorio_UAI\DAL\bin\Debug\net9.0-windows\DAL.deps.json
+D:\Hilos_Repositorio_UAI\DAL\bin\Debug\net9.0-windows\DAL.dll
+D:\Hilos_Repositorio_UAI\DAL\bin\Debug\net9.0-windows\DAL.pdb
+D:\Hilos_Repositorio_UAI\DAL\bin\Debug\net9.0-windows\BE.dll
+D:\Hilos_Repositorio_UAI\DAL\bin\Debug\net9.0-windows\BE.pdb
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.csproj.AssemblyReference.cache
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfoInputs.cache
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfo.cs
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.csproj.Up2Date
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.dll
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\refint\DAL.dll
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\DAL.pdb
+D:\Hilos_Repositorio_UAI\DAL\obj\Debug\net9.0-windows\ref\DAL.dll

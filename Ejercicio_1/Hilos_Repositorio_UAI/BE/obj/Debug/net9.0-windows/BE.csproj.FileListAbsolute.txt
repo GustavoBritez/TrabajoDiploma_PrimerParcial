@@ -1,0 +1,11 @@
+D:\Hilos_Repositorio_UAI\BE\bin\Debug\net9.0-windows\BE.deps.json
+D:\Hilos_Repositorio_UAI\BE\bin\Debug\net9.0-windows\BE.dll
+D:\Hilos_Repositorio_UAI\BE\bin\Debug\net9.0-windows\BE.pdb
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.AssemblyInfoInputs.cache
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.AssemblyInfo.cs
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.csproj.CoreCompileInputs.cache
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.dll
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\refint\BE.dll
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\BE.pdb
+D:\Hilos_Repositorio_UAI\BE\obj\Debug\net9.0-windows\ref\BE.dll

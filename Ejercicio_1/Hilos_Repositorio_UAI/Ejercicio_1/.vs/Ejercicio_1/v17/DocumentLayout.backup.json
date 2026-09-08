@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hilos_Repositorio_UAI\\Ejercicio_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C096CE-AE09-321A-1FF3-1F3C28B66B20}|..\\BE\\BE.csproj|d:\\hilos_repositorio_uai\\be\\carrerabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C096CE-AE09-321A-1FF3-1F3C28B66B20}|..\\BE\\BE.csproj|d:\\hilos_repositorio_uai\\be\\caballobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1383A-0233-4D36-8C01-1D4415EF01F6}|Ejercicio_1.csproj|d:\\hilos_repositorio_uai\\ejercicio_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3A1383A-0233-4D36-8C01-1D4415EF01F6}|Ejercicio_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarreraBE.cs",
+              "DocumentMoniker": "D:\\Hilos_Repositorio_UAI\\BE\\CarreraBE.cs",
+              "RelativeDocumentMoniker": "..\\BE\\CarreraBE.cs",
+              "ToolTip": "D:\\Hilos_Repositorio_UAI\\BE\\CarreraBE.cs",
+              "RelativeToolTip": "..\\BE\\CarreraBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T23:06:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaballoBE.cs",
+              "DocumentMoniker": "D:\\Hilos_Repositorio_UAI\\BE\\CaballoBE.cs",
+              "RelativeDocumentMoniker": "..\\BE\\CaballoBE.cs",
+              "ToolTip": "D:\\Hilos_Repositorio_UAI\\BE\\CaballoBE.cs",
+              "RelativeToolTip": "..\\BE\\CaballoBE.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T23:06:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Hilos_Repositorio_UAI\\Ejercicio_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Hilos_Repositorio_UAI\\Ejercicio_1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:10:28.325Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

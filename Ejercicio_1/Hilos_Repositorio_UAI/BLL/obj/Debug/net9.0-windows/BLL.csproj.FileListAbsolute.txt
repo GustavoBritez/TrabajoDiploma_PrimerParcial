@@ -1,0 +1,17 @@
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\BLL.deps.json
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\BLL.dll
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\BLL.pdb
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\BE.dll
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\DAL.dll
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\BE.pdb
+D:\Hilos_Repositorio_UAI\BLL\bin\Debug\net9.0-windows\DAL.pdb
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.csproj.AssemblyReference.cache
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.AssemblyInfoInputs.cache
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.AssemblyInfo.cs
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.csproj.CoreCompileInputs.cache
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.csproj.Up2Date
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.dll
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\refint\BLL.dll
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\BLL.pdb
+D:\Hilos_Repositorio_UAI\BLL\obj\Debug\net9.0-windows\ref\BLL.dll
