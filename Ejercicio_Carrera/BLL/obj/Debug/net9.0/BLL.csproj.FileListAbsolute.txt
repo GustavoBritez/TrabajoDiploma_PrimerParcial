@@ -1,0 +1,15 @@
+D:\Ejercicio_1\BLL\bin\Debug\net9.0\BLL.deps.json
+D:\Ejercicio_1\BLL\bin\Debug\net9.0\BLL.dll
+D:\Ejercicio_1\BLL\bin\Debug\net9.0\BLL.pdb
+D:\Ejercicio_1\BLL\bin\Debug\net9.0\BE.dll
+D:\Ejercicio_1\BLL\bin\Debug\net9.0\BE.pdb
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.dll
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\refint\BLL.dll
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\BLL.pdb
+D:\Ejercicio_1\BLL\obj\Debug\net9.0\ref\BLL.dll

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|d:\\ejercicio_1\\ejercicio_carrera_coche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|d:\\ejercicio_1\\ejercicio_carrera_coche\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7FA300-0136-4A59-ABC3-8E3C8C3AE6F3}|..\\BLL\\BLL.csproj|d:\\ejercicio_1\\bll\\autobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD77C4-913A-4326-A9F2-5C70F1185CAB}|..\\BE\\BE.csproj|d:\\ejercicio_1\\be\\autobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|d:\\ejercicio_1\\ejercicio_carrera_coche\\ejercicio_carrera_coche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94FED9E4-07D7-4DCC-B884-5C627FB91DBA}|Ejercicio_Carrera_Coche.csproj|solutionrelative:ejercicio_carrera_coche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682D125-F74F-4E89-8C86-9232338B9B82}|..\\DAL\\DAL.csproj|d:\\ejercicio_1\\dal\\autodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio_Carrera_Coche",
+              "DocumentMoniker": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Ejercicio_Carrera_Coche.csproj",
+              "RelativeDocumentMoniker": "Ejercicio_Carrera_Coche.csproj",
+              "ToolTip": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Ejercicio_Carrera_Coche.csproj",
+              "RelativeToolTip": "Ejercicio_Carrera_Coche.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T21:00:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoDAL.cs",
+              "DocumentMoniker": "D:\\Ejercicio_1\\DAL\\AutoDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\AutoDAL.cs",
+              "ToolTip": "D:\\Ejercicio_1\\DAL\\AutoDAL.cs",
+              "RelativeToolTip": "..\\DAL\\AutoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T21:04:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoBLL.cs",
+              "DocumentMoniker": "D:\\Ejercicio_1\\BLL\\AutoBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\AutoBLL.cs",
+              "ToolTip": "D:\\Ejercicio_1\\BLL\\AutoBLL.cs",
+              "RelativeToolTip": "..\\BLL\\AutoBLL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T21:04:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoBE.cs",
+              "DocumentMoniker": "D:\\Ejercicio_1\\BE\\AutoBE.cs",
+              "RelativeDocumentMoniker": "..\\BE\\AutoBE.cs",
+              "ToolTip": "D:\\Ejercicio_1\\BE\\AutoBE.cs",
+              "RelativeToolTip": "..\\BE\\AutoBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T21:04:00.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T21:00:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ejercicio_1\\Ejercicio_Carrera_Coche\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T20:59:09.846Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

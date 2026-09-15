@@ -1,0 +1,11 @@
+D:\Ejercicio_1\BE\bin\Debug\net9.0\BE.deps.json
+D:\Ejercicio_1\BE\bin\Debug\net9.0\BE.dll
+D:\Ejercicio_1\BE\bin\Debug\net9.0\BE.pdb
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.AssemblyInfoInputs.cache
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.AssemblyInfo.cs
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.csproj.CoreCompileInputs.cache
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.dll
+D:\Ejercicio_1\BE\obj\Debug\net9.0\refint\BE.dll
+D:\Ejercicio_1\BE\obj\Debug\net9.0\BE.pdb
+D:\Ejercicio_1\BE\obj\Debug\net9.0\ref\BE.dll
